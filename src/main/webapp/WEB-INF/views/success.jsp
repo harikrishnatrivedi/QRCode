@@ -10,7 +10,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Record inserted successfully.
+	Record inserted successfully. 
 	<a href="<c:url value='/' />">Scan Again</a>
 </body>
 </html>
